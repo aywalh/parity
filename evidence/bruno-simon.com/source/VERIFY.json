@@ -1,0 +1,233 @@
+{
+  "url": "https://bruno-simon.com/",
+  "at": "2026-09-07T20:11:05.626Z",
+  "freeze": null,
+  "initial": {
+    "title": "Bruno's",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "afterScroll": {
+    "title": "Bruno's",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "mobile": {
+    "title": "Bruno's",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 844,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 390,
+        "h": 844,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 7,
+    "failed": 1,
+    "http4xx5xx": 0
+  },
+  "errors": [],
+  "failed": [
+    {
+      "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-JMSN30BQ5J&gtm=45je6921v9119042115za200zd9119042115&_p=1788811823018&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=129004568.1788811823&frm=0&ngs=1&pscdl=noapi&rcb=10&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=de&_s=1&tag_exp=115938466~115938468~118897920~118897930~120213116~120385422~120469145~120469153&sid=1788811823&sct=1&seg=0&dl=https%3A%2F%2Fbruno-simon.com%2F&dt=Bruno%27s&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=408",
+      "err": "net::ERR_ABORTED"
+    }
+  ],
+  "notFound": []
+}

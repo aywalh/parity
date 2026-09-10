@@ -1,0 +1,156 @@
+{
+  "url": "https://www.dogstudio.co/",
+  "rows": [
+    {
+      "w": 1920,
+      "scrollHeight": 3870,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 1600,
+      "scrollHeight": 3870,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 1440,
+      "scrollHeight": 3800,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 1280,
+      "scrollHeight": 3800,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 1024,
+      "scrollHeight": 4249,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 900,
+      "scrollHeight": 4274,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 834,
+      "scrollHeight": 4338,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 768,
+      "scrollHeight": 4153,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 700,
+      "scrollHeight": 3952,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 600,
+      "scrollHeight": 3952,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 500,
+      "scrollHeight": 4057,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 430,
+      "scrollHeight": 4151,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 390,
+      "scrollHeight": 4287,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 375,
+      "scrollHeight": 4293,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    },
+    {
+      "w": 320,
+      "scrollHeight": 4486,
+      "overflowX": 0,
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "desktopNav": null,
+      "burger": null,
+      "heroTitleSize": null,
+      "vh": "9px"
+    }
+  ],
+  "errors": []
+}

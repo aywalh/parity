@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="parity">
+  <!-- Zwei exakt gleiche Hälften eines Quadrats, getrennt von einer 4/64-Naht.
+       Die schmale Naht ist der Punkt: ein Objekt mit zwei identischen Hälften,
+       nicht zwei Objekte. Ein breiterer Spalt würde als Pause-Symbol gelesen. -->
+  <rect x="8"  y="8" width="22" height="48" fill="#FAFAFA"/>
+  <rect x="34" y="8" width="22" height="48" fill="#FAFAFA"/>
+</svg>

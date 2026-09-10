@@ -1,0 +1,21 @@
+{
+  "name": "parity",
+  "owner": { "name": "aywalh", "url": "https://github.com/aywalh" },
+  "metadata": {
+    "description": "The parity skill: reconstruct a site's frontend locally and measure the result against the original.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "parity",
+      "source": "./",
+      "description": "Reconstruct the publicly served frontend of a website locally and prove fidelity by running identical probes against original and clone.",
+      "version": "1.0.0",
+      "author": { "name": "aywalh" },
+      "homepage": "https://github.com/aywalh/parity",
+      "license": "MIT",
+      "keywords": ["website-clone", "verification", "playwright", "webgl"],
+      "category": "development"
+    }
+  ]
+}

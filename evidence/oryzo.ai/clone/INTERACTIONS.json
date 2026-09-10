@@ -1,0 +1,201 @@
+{
+  "url": "http://localhost:4178/",
+  "steps": "case-studies/oryzo-ai/steps.mjs",
+  "at": "2026-09-07T21:54:47.626Z",
+  "passed": 19,
+  "total": 20,
+  "results": [
+    {
+      "name": "document-state",
+      "ok": true,
+      "value": {
+        "title": "ORYZO AI",
+        "htmlClass": "is-desktop is-ready",
+        "bodyClass": "",
+        "scrollHeight": 56691
+      }
+    },
+    {
+      "name": "preloader-state",
+      "ok": true,
+      "value": [
+        {
+          "id": "preloader",
+          "opacity": "1",
+          "display": "none"
+        },
+        {
+          "id": "preloader-canvas",
+          "opacity": "1",
+          "display": "inline"
+        }
+      ]
+    },
+    {
+      "name": "canvases",
+      "ok": true,
+      "value": [
+        {
+          "w": 1440,
+          "h": 900
+        },
+        {
+          "w": 571,
+          "h": 734
+        },
+        {
+          "w": 1440,
+          "h": 900
+        },
+        {
+          "w": 495,
+          "h": 495
+        },
+        {
+          "w": 321,
+          "h": 321
+        },
+        {
+          "w": 1440,
+          "h": 900
+        }
+      ]
+    },
+    {
+      "name": "nav-links",
+      "ok": true,
+      "value": [
+        "IInnttrroo",
+        "FFeeaattuurreess",
+        "PPrroodduucctt",
+        "CCoonnttaacctt"
+      ]
+    },
+    {
+      "name": "nav-hover",
+      "ok": true,
+      "value": "underline|1"
+    },
+    {
+      "name": "buttons",
+      "ok": true,
+      "value": [
+        "Send",
+        "EEnnccooddee MMeessssaaggeeDDe",
+        "OORRYYZZOO",
+        "OORRYYZZOO PPrroo",
+        "OORRYYZZOO PPrroo MMaaxx",
+        "CCooppyy UURRLLCOPIED!",
+        "(no label)"
+      ]
+    },
+    {
+      "name": "forms",
+      "ok": true,
+      "value": [
+        {
+          "action": "(js-handled)",
+          "inputs": 1
+        }
+      ]
+    },
+    {
+      "name": "scroll-to-bottom",
+      "ok": true,
+      "value": 53865
+    },
+    {
+      "name": "mobile-menu-toggle",
+      "ok": true,
+      "value": {
+        "textLenBefore": 1477,
+        "textLenAfter": 1478,
+        "changed": true
+      }
+    },
+    {
+      "name": "video-overlay-open",
+      "ok": true,
+      "value": {
+        "cls": "",
+        "opacity": "0.5",
+        "iframe": true
+      }
+    },
+    {
+      "name": "video-overlay-close",
+      "ok": true,
+      "value": "0.5"
+    },
+    {
+      "name": "goto-product",
+      "ok": true,
+      "value": 51683
+    },
+    {
+      "name": "product-variant-0",
+      "ok": true,
+      "value": [
+        "ACTIVE",
+        "-",
+        "-"
+      ]
+    },
+    {
+      "name": "product-variant-1",
+      "ok": true,
+      "value": [
+        "-",
+        "ACTIVE",
+        "-"
+      ]
+    },
+    {
+      "name": "product-variant-2",
+      "ok": true,
+      "value": [
+        "-",
+        "-",
+        "ACTIVE"
+      ]
+    },
+    {
+      "name": "encryption-flip",
+      "ok": false,
+      "err": "TimeoutError: page.click: Timeout 8000ms exceeded.\nCall log:\n\u001b[2m  - waiting for locator('#encryption-field-flip-btn')\u001b[22m\n\u001b[2m    - locator resolved to <button id=\"encryption-field-flip-btn\" class=\""
+    },
+    {
+      "name": "temperature-slider",
+      "ok": true,
+      "value": "CreativeT = 10 BalancedT = 1 DeterministicT = 0.1"
+    },
+    {
+      "name": "footer-copy-url",
+      "ok": true,
+      "value": "CCooppyy UURRLLCOPIED!"
+    },
+    {
+      "name": "newsletter-submit",
+      "ok": true,
+      "value": "Almost there! Check your inbox"
+    },
+    {
+      "name": "mobile-menu-items",
+      "ok": true,
+      "value": {
+        "menu": "1",
+        "items": [
+          "Intro",
+          "Features",
+          "Product",
+          "Contact",
+          "hello@lusion.co"
+        ]
+      }
+    }
+  ],
+  "errors": [
+    "NotAllowedError: Failed to execute 'writeText' on 'Clipboard': Write permission denied."
+  ],
+  "missing": []
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Folgt dem Systemtheme: dunkle Marke auf hell, helle auf dunkel. -->
+  <style>
+    rect { fill: #0A0A0A }
+    @media (prefers-color-scheme: dark) { rect { fill: #FAFAFA } }
+  </style>
+  <rect x="8"  y="8" width="22" height="48"/>
+  <rect x="34" y="8" width="22" height="48"/>
+</svg>

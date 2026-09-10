@@ -1,0 +1,305 @@
+{
+  "url": "http://localhost:4179/",
+  "at": "2026-09-08T13:56:24.973Z",
+  "freeze": 12000,
+  "initial": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 3800,
+    "scrollLocked": false,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 1190,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 589,
+    "textLength": 2175,
+    "imagesTotal": 13,
+    "imagesLoaded": 12,
+    "videos": [],
+    "sections": [
+      "decoder_script"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "afterScroll": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 3800,
+    "scrollLocked": false,
+    "scrollY": 2900,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 1190,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 589,
+    "textLength": 2175,
+    "imagesTotal": 13,
+    "imagesLoaded": 13,
+    "videos": [],
+    "sections": [
+      "decoder_script"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "mobile": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 4287,
+    "scrollLocked": false,
+    "scrollY": 3443,
+    "canvases": [
+      {
+        "w": 390,
+        "h": 1024,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 589,
+    "textLength": 2216,
+    "imagesTotal": 13,
+    "imagesLoaded": 13,
+    "videos": [],
+    "sections": [
+      "decoder_script"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        95
+      ],
+      "nodes": 589,
+      "textLength": 2175,
+      "imagesTotal": 13,
+      "imagesLoaded": 12,
+      "videos": [],
+      "sections": [
+        "decoder_script"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 725,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 589,
+      "textLength": 2175,
+      "imagesTotal": 13,
+      "imagesLoaded": 12,
+      "videos": [],
+      "sections": [
+        "decoder_script"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 1450,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 589,
+      "textLength": 2175,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "decoder_script"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 2175,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 589,
+      "textLength": 2175,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "decoder_script"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 2900,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        86
+      ],
+      "nodes": 589,
+      "textLength": 2175,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "decoder_script"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 2,
+    "failed": 0,
+    "http4xx5xx": 0,
+    "blocked": 1
+  },
+  "blocked": [
+    "script: https://player.vimeo.com/api/player.js"
+  ],
+  "errors": [],
+  "failed": [],
+  "notFound": []
+}

@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<title>parity</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="/__parity/brand/favicon.svg">
+<link rel="apple-touch-icon" href="/__parity/brand/app-192.png">
+<link rel="manifest" href="/__parity/manifest.webmanifest">
+<meta name="theme-color" content="#0A0A0A">
+<link rel="stylesheet" href="/__parity/style.css">
+</head>
+<body>
+
+<header>
+  <!-- Wortmarke: Marke 34, Text 30, Abstand 14 — die Proportion aus logo.html.
+       Zwei exakt gleiche Haelften auf 64er-Raster, Naht 4/64. -->
+  <div class="logo">
+    <svg width="34" height="34" viewBox="0 0 64 64" role="img" aria-label="parity">
+      <rect x="8" y="8" width="22" height="48"/>
+      <rect x="34" y="8" width="22" height="48"/>
+    </svg>
+    <span>parity</span>
+  </div>
+
+  <!-- Die beiden Methoden. Full Clone ist der bisherige Ablauf und bleibt
+       unveraendert; Selective Extraction sitzt daneben, nicht darueber. -->
+  <div class="modes" role="tablist" aria-label="Methode">
+    <button role="tab" id="mode-clone" class="mode" aria-selected="true">Full Clone</button>
+    <button role="tab" id="mode-extract" class="mode" aria-selected="false">Selective Extraction</button>
+  </div>
+
+  <form id="f">
+    <input type="url" id="url" placeholder="https://ziel.tld" required autocomplete="off">
+    <button id="go">Lauf starten</button>
+    <select class="ghost" id="ev" title="Referenzpaar aus evidence/ ohne Lauf">
+      <option value="">Evidenz…</option>
+      <option value="example.com">example.com</option>
+      <option value="rust-lang.org">rust-lang.org</option>
+      <option value="oryzo.ai">oryzo.ai</option>
+    </select>
+  </form>
+
+  <div class="status" id="status">bereit</div>
+</header>
+
+<!-- ══ Methode 1: Full Clone ══════════════════════════════════════════════ -->
+<div id="view-clone">
+  <div class="pipeline" id="pipeline"></div>
+
+  <main>
+    <section>
+      <h2>404-Loop <span class="c" id="loop-c"></span></h2>
+      <div class="body" id="loop"><div class="empty">wartet auf einen Lauf</div></div>
+    </section>
+
+    <section>
+      <h2>Gegenmessung <span class="c" id="diff-c"></span></h2>
+      <div class="body" id="diff"><div class="empty">wartet auf <code>diff</code></div></div>
+      <div id="verdict"></div>
+    </section>
+
+    <section class="wide">
+      <h2>Original | Clone <span class="c" id="blend-c"></span></h2>
+      <div class="body" id="blend"><div class="empty">Screenshots erscheinen, sobald <code>verify --shots</code> gelaufen ist</div></div>
+    </section>
+  </main>
+</div>
+
+<!-- ══ Methode 2: Selective Extraction ════════════════════════════════════ -->
+<div id="view-extract" hidden>
+
+  <div class="pipeline" id="xpipeline"></div>
+
+  <main class="xmain">
+    <!-- Inspect: die Seite laeuft same-origin in diesem iframe, deshalb kann
+         der Picker ihren DOM lesen, ohne etwas hineinzuschreiben. -->
+    <section class="wide" id="sec-inspect">
+      <h2>Inspect
+        <span class="c" id="pick-c">Seite oeffnen, dann ein Element anklicken</span>
+      </h2>
+      <div class="body">
+        <div class="empty" id="inspect-empty">
+          URL oben eingeben und <b>Seite oeffnen</b> — es wird nur das HTML geholt,
+          Assets kommen beim Anzeigen nach. Kein vollstaendiger Clone noetig.
+        </div>
+        <div id="stage" hidden>
+          <div class="framewrap">
+            <iframe id="frame" title="Inspect-Ziel"></iframe>
+            <div id="hl" hidden><span id="hl-tag"></span></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Auswahl bestaetigen: Umfang und Trigger -->
+    <section id="sec-pick" hidden>
+      <h2>Auswahl <span class="c" id="sel-count"></span></h2>
+      <div class="body">
+        <div class="kv"><b>Selector</b><code id="p-sel">—</code></div>
+        <div class="kv"><b>DOM-Pfad</b><code id="p-path" class="wrapcode">—</code></div>
+        <div class="kv"><b>Erkannt</b><span id="p-hint">—</span></div>
+
+        <div class="nav-rel">
+          <button class="ghost" data-rel="parent">↑ Parent</button>
+          <button class="ghost" data-rel="child">↓ erstes Kind</button>
+          <button class="ghost" data-rel="prev">← Geschwister</button>
+          <button class="ghost" data-rel="next">Geschwister →</button>
+        </div>
+
+        <h3>Umfang</h3>
+        <div class="chips" id="scope-chips">
+          <button data-scope="element" aria-pressed="true">Nur dieses Element</button>
+          <button data-scope="animation" aria-pressed="false">Element plus Animation</button>
+          <button data-scope="deps" aria-pressed="false">Element plus Abhaengigkeiten</button>
+          <button data-scope="interaction" aria-pressed="false">Komplette Interaktion</button>
+          <button data-scope="section" aria-pressed="false">Ganze Section</button>
+        </div>
+
+        <h3>Trigger</h3>
+        <div class="chips" id="trigger-chips">
+          <button data-trigger="auto" aria-pressed="true">automatisch erkennen</button>
+          <button data-trigger="load" aria-pressed="false">Load</button>
+          <button data-trigger="hover" aria-pressed="false">Hover</button>
+          <button data-trigger="click" aria-pressed="false">Click</button>
+          <button data-trigger="focus" aria-pressed="false">Focus</button>
+          <button data-trigger="scroll" aria-pressed="false">Scroll</button>
+          <button data-trigger="drag" aria-pressed="false">Drag</button>
+          <button data-trigger="pointer" aria-pressed="false">Pointer Move</button>
+          <button data-trigger="touch" aria-pressed="false">Touch</button>
+          <button data-trigger="idle" aria-pressed="false">Idle</button>
+          <button data-trigger="loop" aria-pressed="false">Loop</button>
+        </div>
+
+        <div class="row">
+          <input type="text" id="p-title" placeholder="Name (optional)" autocomplete="off">
+          <button id="analyse" disabled>Analyse starten</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Analyseinformationen -->
+    <section id="sec-info">
+      <h2>Analyse <span class="c" id="info-c"></span></h2>
+      <div class="body" id="info"><div class="empty">wartet auf eine Auswahl</div></div>
+    </section>
+
+    <!-- Preview — steht bei breiten Fenstern neben den Analyseinformationen,
+         darunter erst der Code. Das ist die Dreiteilung aus der Spezifikation. -->
+    <section id="sec-preview">
+      <h2>Preview <span class="c" id="prev-c"></span></h2>
+      <div class="body" id="preview"><div class="empty">wartet auf eine Analyse</div></div>
+    </section>
+
+    <!-- Code -->
+    <section class="wide" id="sec-code">
+      <h2>Code <span class="c" id="code-c"></span></h2>
+      <div class="body" id="code"><div class="empty">wartet auf eine Analyse</div></div>
+    </section>
+
+    <!-- Bisherige Extraktionen -->
+    <section class="wide" id="sec-list">
+      <h2>Extraktionen <span class="c" id="list-c"></span></h2>
+      <div class="body" id="list"><div class="empty">noch keine</div></div>
+    </section>
+  </main>
+</div>
+
+<script src="/__parity/app.js" type="module"></script>
+</body>
+</html>

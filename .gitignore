@@ -1,0 +1,41 @@
+node_modules/
+
+# ── Fremde Assets: NIE committen ─────────────────────────────────────────
+# Ein Clone enthält die Original-Assets der Zielseite (Bilder, Videos,
+# 3D-Modelle, Texturen, Fonts) und oft Aufnahmen identifizierbarer Personen.
+# Die gehören in kein Repo — auch nicht in die Historie eines privaten,
+# weil sie sonst bei einem späteren Public-Schalten mit hochgehen.
+#
+# Angeankert (führender /), sonst würde "clone/" auch evidence/*/clone/
+# verschlucken — die kuratierten Messwerte sollen ins Repo.
+/clone/
+/smoke/
+
+# ── Arbeitsausgabe ───────────────────────────────────────────────────────
+# Läufe von capture/verify/interact/responsive. Jederzeit reproduzierbar.
+# Kuratierte Messwerte liegen stattdessen in evidence/.
+/capture/
+
+# Screenshots grundsätzlich nicht — mit --shots neu erzeugbar
+*.png
+*.jpg
+*.gif
+*.mp4
+# ... ausgenommen die Brand-Assets, die sind Quelldateien
+!brand/*.png
+# ... und der Launch-Film in der README. Er zeigt die Subjects dieses Repos in
+# Bewegung, ist also fremdes Bildmaterial in der Historie — eine benannte
+# Ausnahme, kein Loch in der Regel. Die Regel oben gilt unverändert für alles,
+# was aus einem Clone- oder Capture-Lauf fällt.
+!media/parity-film.gif
+
+# UI-Laeufe: geklonte Fremdinhalte, nie ins Repo
+/runs/
+
+# ── Extraktionen ─────────────────────────────────────────────────────────
+# Enthalten Original-Markup und Original-CSS fremder Seiten, dazu Aufnahmen
+# davon. Gleiche Begruendung wie /clone/ und /runs/: fremde Inhalte gehoeren
+# in kein Repo, auch nicht in die Historie eines privaten.
+/extractions/
+/tests/.out/
+

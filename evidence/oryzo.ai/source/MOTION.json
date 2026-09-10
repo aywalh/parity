@@ -1,0 +1,64 @@
+{
+  "url": "https://oryzo.ai/",
+  "at": "2026-09-08T06:18:06.179Z",
+  "entries": [
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 300,
+      "count": 24
+    },
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 180,
+      "count": 10
+    },
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 250,
+      "count": 6
+    },
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 200,
+      "count": 5
+    },
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 150,
+      "count": 3
+    },
+    {
+      "kind": "transition",
+      "ease": "ease",
+      "ms": 500,
+      "count": 2
+    },
+    {
+      "kind": "transition",
+      "ease": "ease-in-out",
+      "ms": 180,
+      "count": 2
+    },
+    {
+      "kind": "animation",
+      "ease": "linear",
+      "ms": 1000,
+      "count": 2
+    },
+    {
+      "kind": "transition",
+      "ease": "cubic-bezier(0.3, 0, 0.66, -0.3)",
+      "ms": 500,
+      "count": 1
+    }
+  ],
+  "libs": [],
+  "scrollBehavior": "auto",
+  "reducedMotionRules": 0,
+  "elements": 3577
+}

@@ -1,0 +1,453 @@
+{
+  "url": "http://localhost:4173/examples/webgl_shaders_ocean.html",
+  "at": "2026-09-07T19:35:49.320Z",
+  "freeze": 3000,
+  "initial": {
+    "title": "three.js webgl - shaders - ocean",
+    "htmlClass": "",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      0,
+      218
+    ],
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "container",
+      "info",
+      "lil-gui-name-1",
+      "lil-gui-name-2",
+      "lil-gui-name-3",
+      "lil-gui-name-4",
+      "lil-gui-name-5",
+      "lil-gui-name-6",
+      "lil-gui-name-7",
+      "lil-gui-name-8",
+      "lil-gui-name-9",
+      "lil-gui-name-10"
+    ],
+    "fonts": [
+      "lil-gui"
+    ]
+  },
+  "afterScroll": {
+    "title": "three.js webgl - shaders - ocean",
+    "htmlClass": "",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      0,
+      221
+    ],
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "container",
+      "info",
+      "lil-gui-name-1",
+      "lil-gui-name-2",
+      "lil-gui-name-3",
+      "lil-gui-name-4",
+      "lil-gui-name-5",
+      "lil-gui-name-6",
+      "lil-gui-name-7",
+      "lil-gui-name-8",
+      "lil-gui-name-9",
+      "lil-gui-name-10"
+    ],
+    "fonts": [
+      "lil-gui"
+    ]
+  },
+  "mobile": {
+    "title": "three.js webgl - shaders - ocean",
+    "htmlClass": "",
+    "scrollHeight": 844,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 390,
+        "h": 844,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      },
+      {
+        "w": 80,
+        "h": 48,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      0,
+      221
+    ],
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "container",
+      "info",
+      "lil-gui-name-1",
+      "lil-gui-name-2",
+      "lil-gui-name-3",
+      "lil-gui-name-4",
+      "lil-gui-name-5",
+      "lil-gui-name-6",
+      "lil-gui-name-7",
+      "lil-gui-name-8",
+      "lil-gui-name-9",
+      "lil-gui-name-10"
+    ],
+    "fonts": [
+      "lil-gui"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "three.js webgl - shaders - ocean",
+      "htmlClass": "",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        255,
+        0,
+        0,
+        221
+      ],
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "container",
+        "info",
+        "lil-gui-name-1",
+        "lil-gui-name-2",
+        "lil-gui-name-3",
+        "lil-gui-name-4",
+        "lil-gui-name-5",
+        "lil-gui-name-6",
+        "lil-gui-name-7",
+        "lil-gui-name-8",
+        "lil-gui-name-9",
+        "lil-gui-name-10"
+      ],
+      "fonts": [
+        "lil-gui"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "three.js webgl - shaders - ocean",
+      "htmlClass": "",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        0,
+        221
+      ],
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "container",
+        "info",
+        "lil-gui-name-1",
+        "lil-gui-name-2",
+        "lil-gui-name-3",
+        "lil-gui-name-4",
+        "lil-gui-name-5",
+        "lil-gui-name-6",
+        "lil-gui-name-7",
+        "lil-gui-name-8",
+        "lil-gui-name-9",
+        "lil-gui-name-10"
+      ],
+      "fonts": [
+        "lil-gui"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "three.js webgl - shaders - ocean",
+      "htmlClass": "",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        255,
+        0,
+        0,
+        221
+      ],
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "container",
+        "info",
+        "lil-gui-name-1",
+        "lil-gui-name-2",
+        "lil-gui-name-3",
+        "lil-gui-name-4",
+        "lil-gui-name-5",
+        "lil-gui-name-6",
+        "lil-gui-name-7",
+        "lil-gui-name-8",
+        "lil-gui-name-9",
+        "lil-gui-name-10"
+      ],
+      "fonts": [
+        "lil-gui"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "three.js webgl - shaders - ocean",
+      "htmlClass": "",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        0,
+        221
+      ],
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "container",
+        "info",
+        "lil-gui-name-1",
+        "lil-gui-name-2",
+        "lil-gui-name-3",
+        "lil-gui-name-4",
+        "lil-gui-name-5",
+        "lil-gui-name-6",
+        "lil-gui-name-7",
+        "lil-gui-name-8",
+        "lil-gui-name-9",
+        "lil-gui-name-10"
+      ],
+      "fonts": [
+        "lil-gui"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "three.js webgl - shaders - ocean",
+      "htmlClass": "",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        },
+        {
+          "w": 80,
+          "h": 48,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        255,
+        0,
+        0,
+        221
+      ],
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "container",
+        "info",
+        "lil-gui-name-1",
+        "lil-gui-name-2",
+        "lil-gui-name-3",
+        "lil-gui-name-4",
+        "lil-gui-name-5",
+        "lil-gui-name-6",
+        "lil-gui-name-7",
+        "lil-gui-name-8",
+        "lil-gui-name-9",
+        "lil-gui-name-10"
+      ],
+      "fonts": [
+        "lil-gui"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 1,
+    "failed": 0,
+    "http4xx5xx": 0
+  },
+  "errors": [],
+  "failed": [],
+  "notFound": []
+}

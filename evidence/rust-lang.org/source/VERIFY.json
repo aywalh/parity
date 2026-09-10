@@ -1,0 +1,244 @@
+{
+  "url": "https://www.rust-lang.org/",
+  "at": "2026-09-07T13:29:01.284Z",
+  "initial": {
+    "title": "Rust Programming Language",
+    "htmlClass": "",
+    "scrollHeight": 3490,
+    "scrollY": 0,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "imagesTotal": 9,
+    "imagesLoaded": 9,
+    "videos": [],
+    "sections": [
+      "language-nav",
+      "language-values",
+      "read-rust",
+      "watch-rust",
+      "individual-code",
+      "company-sponsorships",
+      "get-help",
+      "language-footer"
+    ],
+    "fonts": [
+      "Alfa Slab One",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans"
+    ]
+  },
+  "afterScroll": {
+    "title": "Rust Programming Language",
+    "htmlClass": "",
+    "scrollHeight": 3490,
+    "scrollY": 2590,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "imagesTotal": 9,
+    "imagesLoaded": 9,
+    "videos": [],
+    "sections": [
+      "language-nav",
+      "language-values",
+      "read-rust",
+      "watch-rust",
+      "individual-code",
+      "company-sponsorships",
+      "get-help",
+      "language-footer"
+    ],
+    "fonts": [
+      "Alfa Slab One",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans"
+    ]
+  },
+  "mobile": {
+    "title": "Rust Programming Language",
+    "htmlClass": "",
+    "scrollHeight": 5386,
+    "scrollY": 4542,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "imagesTotal": 9,
+    "imagesLoaded": 9,
+    "videos": [],
+    "sections": [
+      "language-nav",
+      "language-values",
+      "read-rust",
+      "watch-rust",
+      "individual-code",
+      "company-sponsorships",
+      "get-help",
+      "language-footer"
+    ],
+    "fonts": [
+      "Alfa Slab One",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans",
+      "Fira Sans"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Rust Programming Language",
+      "htmlClass": "",
+      "scrollHeight": 3490,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "imagesTotal": 9,
+      "imagesLoaded": 9,
+      "videos": [],
+      "sections": [
+        "language-nav",
+        "language-values",
+        "read-rust",
+        "watch-rust",
+        "individual-code",
+        "company-sponsorships",
+        "get-help",
+        "language-footer"
+      ],
+      "fonts": [
+        "Alfa Slab One",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "Rust Programming Language",
+      "htmlClass": "",
+      "scrollHeight": 3490,
+      "scrollY": 648,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "imagesTotal": 9,
+      "imagesLoaded": 9,
+      "videos": [],
+      "sections": [
+        "language-nav",
+        "language-values",
+        "read-rust",
+        "watch-rust",
+        "individual-code",
+        "company-sponsorships",
+        "get-help",
+        "language-footer"
+      ],
+      "fonts": [
+        "Alfa Slab One",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "Rust Programming Language",
+      "htmlClass": "",
+      "scrollHeight": 3490,
+      "scrollY": 1295,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "imagesTotal": 9,
+      "imagesLoaded": 9,
+      "videos": [],
+      "sections": [
+        "language-nav",
+        "language-values",
+        "read-rust",
+        "watch-rust",
+        "individual-code",
+        "company-sponsorships",
+        "get-help",
+        "language-footer"
+      ],
+      "fonts": [
+        "Alfa Slab One",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "Rust Programming Language",
+      "htmlClass": "",
+      "scrollHeight": 3490,
+      "scrollY": 1943,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "imagesTotal": 9,
+      "imagesLoaded": 9,
+      "videos": [],
+      "sections": [
+        "language-nav",
+        "language-values",
+        "read-rust",
+        "watch-rust",
+        "individual-code",
+        "company-sponsorships",
+        "get-help",
+        "language-footer"
+      ],
+      "fonts": [
+        "Alfa Slab One",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "Rust Programming Language",
+      "htmlClass": "",
+      "scrollHeight": 3490,
+      "scrollY": 2590,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "imagesTotal": 9,
+      "imagesLoaded": 9,
+      "videos": [],
+      "sections": [
+        "language-nav",
+        "language-values",
+        "read-rust",
+        "watch-rust",
+        "individual-code",
+        "company-sponsorships",
+        "get-help",
+        "language-footer"
+      ],
+      "fonts": [
+        "Alfa Slab One",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans",
+        "Fira Sans"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 0,
+    "failed": 0,
+    "http4xx5xx": 0
+  },
+  "errors": [],
+  "failed": [],
+  "notFound": []
+}

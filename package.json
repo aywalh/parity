@@ -1,0 +1,24 @@
+{
+  "name": "parity",
+  "version": "1.0.0",
+  "description": "Source-first frontend reconstruction with counter-measurement: reuse the original runtime, then prove fidelity by running the same probes against source and clone.",
+  "type": "module",
+  "license": "MIT",
+  "author": "aywalh",
+  "bin": { "parity": "bin/parity.mjs" },
+  "files": ["bin", "tools", "ui", "skills", ".claude-plugin", "README.md", "PROMPT.md", "NOTICE.md", "LICENSE"],
+  "keywords": [
+    "website-clone", "web-scraping", "playwright", "webgl", "frontend",
+    "reverse-engineering", "visual-regression", "verification", "three.js", "rive"
+  ],
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "capture": "node tools/capture.mjs",
+    "fetch": "node tools/fetch-assets.mjs",
+    "serve": "node tools/serve.mjs",
+    "verify": "node tools/verify.mjs",
+    "interact": "node tools/interact.mjs",
+    "responsive": "node tools/responsive.mjs"
+  },
+  "devDependencies": { "playwright": "^1.63.0" }
+}

@@ -1,0 +1,27 @@
+<!doctype html><html lang="de"><head><meta charset="utf-8"><title>parity extract fixture</title>
+<style>
+  body { margin:0; font:16px system-ui; background:#111; color:#eee; }
+  .wrap { max-width:800px; margin:0 auto; padding:80px 24px; display:flex; flex-direction:column; gap:40px; }
+  .card { background:#1c1c1c; padding:28px; border-radius:8px;
+          transition: transform 420ms cubic-bezier(.22,1,.36,1), opacity 420ms linear 80ms; }
+  .card:hover { transform: translateY(-12px) scale(1.03); opacity:.85; }
+  @keyframes pulse { 0% { opacity:.3; transform:scale(1); } 100% { opacity:1; transform:scale(1.15); } }
+  .pulse { width:64px; height:64px; background:#4ADE80; border-radius:50%;
+           animation: pulse 900ms ease-in-out infinite alternate; }
+  .spacer { height:1400px; }
+  .reveal { opacity:0; transform:translateY(30px); transition:opacity 600ms ease, transform 600ms ease; }
+  .reveal.in { opacity:1; transform:none; }
+</style></head><body>
+<div class="wrap">
+  <div class="card" id="card">Hover-Karte mit Transition</div>
+  <div class="pulse" id="pulse"></div>
+  <div class="spacer"></div>
+  <div class="reveal" id="reveal">Scroll-Reveal per IntersectionObserver</div>
+  <div class="spacer"></div>
+</div>
+<script>
+  new IntersectionObserver((es) => es.forEach(e => e.isIntersecting && e.target.classList.add('in')),
+    { threshold: 0.25, rootMargin: '0px 0px -10% 0px' }).observe(document.getElementById('reveal'));
+  document.getElementById('card').addEventListener('click', () => {});
+</script>
+</body></html>
