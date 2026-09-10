@@ -1,0 +1,14 @@
+{
+  "url": "https://threejs.org/examples/webgl_shaders_ocean.html",
+  "at": "2026-09-08T07:19:10.614Z",
+  "scrollLocked": false,
+  "docHeight": 900,
+  "step": 600,
+  "turns": 32,
+  "changes": 12,
+  "lastChangeTurn": 26,
+  "travel": 15600,
+  "scrolls": false,
+  "reach": 15600,
+  "unit": "wheel px"
+}

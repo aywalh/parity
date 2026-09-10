@@ -1,0 +1,1032 @@
+{
+  "url": "http://localhost:4178/",
+  "at": "2026-09-07T21:44:15.220Z",
+  "freeze": 3000,
+  "initial": {
+    "title": "ORYZO AI",
+    "htmlClass": "is-desktop is-ready",
+    "scrollHeight": 56691,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 571,
+        "h": 734,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 495,
+        "h": 495,
+        "cls": ""
+      },
+      {
+        "w": 321,
+        "h": 321,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      0,
+      0,
+      251,
+      0
+    ],
+    "imagesTotal": 39,
+    "imagesLoaded": 39,
+    "videos": [
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+        "ready": 4
+      },
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+        "ready": 4
+      }
+    ],
+    "sections": [
+      "canvas",
+      "logo-tmpl",
+      "hand-tmpl",
+      "ui",
+      "site-content",
+      "pages-container",
+      "home",
+      "hero",
+      "hero-top",
+      "hero-top-tagline",
+      "hero-logo-ref",
+      "hero-copy",
+      "hero-card",
+      "hero-card-inner",
+      "hero-card-header",
+      "hero-card-desc",
+      "hero-video-wrapper",
+      "hero-video-thumbnail-wrapper",
+      "hero-video-thumbnail",
+      "hero-video-play",
+      "ai",
+      "ai-pre",
+      "ai-header",
+      "ai-title",
+      "ai-tagline",
+      "ai-instruction",
+      "ai-instruction-icon",
+      "ai-instruction-text",
+      "ai-desc",
+      "ai-disclaimer-wrapper",
+      "ai-disclaimer",
+      "wearable",
+      "wearable-copy",
+      "wearable-title",
+      "wearable-title-2-dummy",
+      "wearable-main",
+      "wearable-main-small",
+      "wearable-main-canvas",
+      "wearable-gallery-wrapper",
+      "wearable-gallery-move-container",
+      "wearable-gallery-warning",
+      "wearable-gallery-warning-icon-wrapper",
+      "wearable-gallery-warning-message",
+      "wearable-gallery-bikini-overlay",
+      "wearable-gallery-bikini-message",
+      "wearable-gallery-bikini-prompt",
+      "wearable-gallery-bikini-send-btn-wrapper",
+      "wearable-magazine",
+      "wearable-magazine-title",
+      "wearable-magazine-issue",
+      "wearable-magazine-idea",
+      "wearable-magazine-idea-num",
+      "wearable-magazine-idea-num-inner",
+      "wearable-magazine-idea-txt",
+      "wearable-magazine-main",
+      "wearable-magazine-main-title-1",
+      "wearable-magazine-main-title-2",
+      "wearable-magazine-main-desc",
+      "wearable-magazine-num",
+      "wearable-magazine-corner"
+    ],
+    "fonts": [
+      "halyard-display-variable",
+      "Literata",
+      "DM Mono"
+    ]
+  },
+  "afterScroll": {
+    "title": "ORYZO AI",
+    "htmlClass": "is-desktop is-ready",
+    "scrollHeight": 56691,
+    "scrollY": 55791,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 571,
+        "h": 734,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 495,
+        "h": 495,
+        "cls": ""
+      },
+      {
+        "w": 321,
+        "h": 321,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      255,
+      0,
+      251,
+      0
+    ],
+    "imagesTotal": 39,
+    "imagesLoaded": 39,
+    "videos": [
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+        "ready": 4
+      },
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+        "ready": 4
+      }
+    ],
+    "sections": [
+      "canvas",
+      "logo-tmpl",
+      "hand-tmpl",
+      "ui",
+      "site-content",
+      "pages-container",
+      "home",
+      "hero",
+      "hero-top",
+      "hero-top-tagline",
+      "hero-logo-ref",
+      "hero-copy",
+      "hero-card",
+      "hero-card-inner",
+      "hero-card-header",
+      "hero-card-desc",
+      "hero-video-wrapper",
+      "hero-video-thumbnail-wrapper",
+      "hero-video-thumbnail",
+      "hero-video-play",
+      "ai",
+      "ai-pre",
+      "ai-header",
+      "ai-title",
+      "ai-tagline",
+      "ai-instruction",
+      "ai-instruction-icon",
+      "ai-instruction-text",
+      "ai-desc",
+      "ai-disclaimer-wrapper",
+      "ai-disclaimer",
+      "wearable",
+      "wearable-copy",
+      "wearable-title",
+      "wearable-title-2-dummy",
+      "wearable-main",
+      "wearable-main-small",
+      "wearable-main-canvas",
+      "wearable-gallery-wrapper",
+      "wearable-gallery-move-container",
+      "wearable-gallery-warning",
+      "wearable-gallery-warning-icon-wrapper",
+      "wearable-gallery-warning-message",
+      "wearable-gallery-bikini-overlay",
+      "wearable-gallery-bikini-message",
+      "wearable-gallery-bikini-prompt",
+      "wearable-gallery-bikini-send-btn-wrapper",
+      "wearable-magazine",
+      "wearable-magazine-title",
+      "wearable-magazine-issue",
+      "wearable-magazine-idea",
+      "wearable-magazine-idea-num",
+      "wearable-magazine-idea-num-inner",
+      "wearable-magazine-idea-txt",
+      "wearable-magazine-main",
+      "wearable-magazine-main-title-1",
+      "wearable-magazine-main-title-2",
+      "wearable-magazine-main-desc",
+      "wearable-magazine-num",
+      "wearable-magazine-corner"
+    ],
+    "fonts": [
+      "halyard-display-variable",
+      "Literata",
+      "DM Mono"
+    ]
+  },
+  "mobile": {
+    "title": "ORYZO AI",
+    "htmlClass": "is-desktop is-ready",
+    "scrollHeight": 57771,
+    "scrollY": 56927,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 571,
+        "h": 734,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      },
+      {
+        "w": 495,
+        "h": 495,
+        "cls": ""
+      },
+      {
+        "w": 321,
+        "h": 321,
+        "cls": ""
+      },
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0,
+      0,
+      255,
+      0,
+      251,
+      0
+    ],
+    "imagesTotal": 39,
+    "imagesLoaded": 39,
+    "videos": [
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+        "ready": 4
+      },
+      {
+        "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+        "ready": 4
+      }
+    ],
+    "sections": [
+      "canvas",
+      "logo-tmpl",
+      "hand-tmpl",
+      "ui",
+      "site-content",
+      "pages-container",
+      "home",
+      "hero",
+      "hero-top",
+      "hero-top-tagline",
+      "hero-logo-ref",
+      "hero-copy",
+      "hero-card",
+      "hero-card-inner",
+      "hero-card-header",
+      "hero-card-desc",
+      "hero-video-wrapper",
+      "hero-video-thumbnail-wrapper",
+      "hero-video-thumbnail",
+      "hero-video-play",
+      "ai",
+      "ai-pre",
+      "ai-header",
+      "ai-title",
+      "ai-tagline",
+      "ai-instruction",
+      "ai-instruction-icon",
+      "ai-instruction-text",
+      "ai-desc",
+      "ai-disclaimer-wrapper",
+      "ai-disclaimer",
+      "wearable",
+      "wearable-copy",
+      "wearable-title",
+      "wearable-title-2-dummy",
+      "wearable-main",
+      "wearable-main-small",
+      "wearable-main-canvas",
+      "wearable-gallery-wrapper",
+      "wearable-gallery-move-container",
+      "wearable-gallery-warning",
+      "wearable-gallery-warning-icon-wrapper",
+      "wearable-gallery-warning-message",
+      "wearable-gallery-bikini-overlay",
+      "wearable-gallery-bikini-message",
+      "wearable-gallery-bikini-prompt",
+      "wearable-gallery-bikini-send-btn-wrapper",
+      "wearable-magazine",
+      "wearable-magazine-title",
+      "wearable-magazine-issue",
+      "wearable-magazine-idea",
+      "wearable-magazine-idea-num",
+      "wearable-magazine-idea-num-inner",
+      "wearable-magazine-idea-txt",
+      "wearable-magazine-main",
+      "wearable-magazine-main-title-1",
+      "wearable-magazine-main-title-2",
+      "wearable-magazine-main-desc",
+      "wearable-magazine-num",
+      "wearable-magazine-corner"
+    ],
+    "fonts": [
+      "halyard-display-variable",
+      "Literata",
+      "DM Mono"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "ORYZO AI",
+      "htmlClass": "is-desktop is-ready",
+      "scrollHeight": 56691,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 571,
+          "h": 734,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 495,
+          "h": 495,
+          "cls": ""
+        },
+        {
+          "w": 321,
+          "h": 321,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        0,
+        0,
+        251,
+        0
+      ],
+      "imagesTotal": 39,
+      "imagesLoaded": 39,
+      "videos": [
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+          "ready": 4
+        },
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+          "ready": 4
+        }
+      ],
+      "sections": [
+        "canvas",
+        "logo-tmpl",
+        "hand-tmpl",
+        "ui",
+        "site-content",
+        "pages-container",
+        "home",
+        "hero",
+        "hero-top",
+        "hero-top-tagline",
+        "hero-logo-ref",
+        "hero-copy",
+        "hero-card",
+        "hero-card-inner",
+        "hero-card-header",
+        "hero-card-desc",
+        "hero-video-wrapper",
+        "hero-video-thumbnail-wrapper",
+        "hero-video-thumbnail",
+        "hero-video-play",
+        "ai",
+        "ai-pre",
+        "ai-header",
+        "ai-title",
+        "ai-tagline",
+        "ai-instruction",
+        "ai-instruction-icon",
+        "ai-instruction-text",
+        "ai-desc",
+        "ai-disclaimer-wrapper",
+        "ai-disclaimer",
+        "wearable",
+        "wearable-copy",
+        "wearable-title",
+        "wearable-title-2-dummy",
+        "wearable-main",
+        "wearable-main-small",
+        "wearable-main-canvas",
+        "wearable-gallery-wrapper",
+        "wearable-gallery-move-container",
+        "wearable-gallery-warning",
+        "wearable-gallery-warning-icon-wrapper",
+        "wearable-gallery-warning-message",
+        "wearable-gallery-bikini-overlay",
+        "wearable-gallery-bikini-message",
+        "wearable-gallery-bikini-prompt",
+        "wearable-gallery-bikini-send-btn-wrapper",
+        "wearable-magazine",
+        "wearable-magazine-title",
+        "wearable-magazine-issue",
+        "wearable-magazine-idea",
+        "wearable-magazine-idea-num",
+        "wearable-magazine-idea-num-inner",
+        "wearable-magazine-idea-txt",
+        "wearable-magazine-main",
+        "wearable-magazine-main-title-1",
+        "wearable-magazine-main-title-2",
+        "wearable-magazine-main-desc",
+        "wearable-magazine-num",
+        "wearable-magazine-corner"
+      ],
+      "fonts": [
+        "halyard-display-variable",
+        "Literata",
+        "DM Mono"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "ORYZO AI",
+      "htmlClass": "is-desktop is-ready",
+      "scrollHeight": 56691,
+      "scrollY": 13948,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 571,
+          "h": 734,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 495,
+          "h": 495,
+          "cls": ""
+        },
+        {
+          "w": 321,
+          "h": 321,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        117,
+        0,
+        0,
+        0,
+        251,
+        0
+      ],
+      "imagesTotal": 39,
+      "imagesLoaded": 39,
+      "videos": [
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+          "ready": 4
+        },
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+          "ready": 4
+        }
+      ],
+      "sections": [
+        "canvas",
+        "logo-tmpl",
+        "hand-tmpl",
+        "ui",
+        "site-content",
+        "pages-container",
+        "home",
+        "hero",
+        "hero-top",
+        "hero-top-tagline",
+        "hero-logo-ref",
+        "hero-copy",
+        "hero-card",
+        "hero-card-inner",
+        "hero-card-header",
+        "hero-card-desc",
+        "hero-video-wrapper",
+        "hero-video-thumbnail-wrapper",
+        "hero-video-thumbnail",
+        "hero-video-play",
+        "ai",
+        "ai-pre",
+        "ai-header",
+        "ai-title",
+        "ai-tagline",
+        "ai-instruction",
+        "ai-instruction-icon",
+        "ai-instruction-text",
+        "ai-desc",
+        "ai-disclaimer-wrapper",
+        "ai-disclaimer",
+        "wearable",
+        "wearable-copy",
+        "wearable-title",
+        "wearable-title-2-dummy",
+        "wearable-main",
+        "wearable-main-small",
+        "wearable-main-canvas",
+        "wearable-gallery-wrapper",
+        "wearable-gallery-move-container",
+        "wearable-gallery-warning",
+        "wearable-gallery-warning-icon-wrapper",
+        "wearable-gallery-warning-message",
+        "wearable-gallery-bikini-overlay",
+        "wearable-gallery-bikini-message",
+        "wearable-gallery-bikini-prompt",
+        "wearable-gallery-bikini-send-btn-wrapper",
+        "wearable-magazine",
+        "wearable-magazine-title",
+        "wearable-magazine-issue",
+        "wearable-magazine-idea",
+        "wearable-magazine-idea-num",
+        "wearable-magazine-idea-num-inner",
+        "wearable-magazine-idea-txt",
+        "wearable-magazine-main",
+        "wearable-magazine-main-title-1",
+        "wearable-magazine-main-title-2",
+        "wearable-magazine-main-desc",
+        "wearable-magazine-num",
+        "wearable-magazine-corner"
+      ],
+      "fonts": [
+        "halyard-display-variable",
+        "Literata",
+        "DM Mono"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "ORYZO AI",
+      "htmlClass": "is-desktop is-ready",
+      "scrollHeight": 56691,
+      "scrollY": 27896,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 571,
+          "h": 734,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 495,
+          "h": 495,
+          "cls": ""
+        },
+        {
+          "w": 321,
+          "h": 321,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        255,
+        0,
+        251,
+        0
+      ],
+      "imagesTotal": 39,
+      "imagesLoaded": 39,
+      "videos": [
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+          "ready": 4
+        },
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+          "ready": 4
+        }
+      ],
+      "sections": [
+        "canvas",
+        "logo-tmpl",
+        "hand-tmpl",
+        "ui",
+        "site-content",
+        "pages-container",
+        "home",
+        "hero",
+        "hero-top",
+        "hero-top-tagline",
+        "hero-logo-ref",
+        "hero-copy",
+        "hero-card",
+        "hero-card-inner",
+        "hero-card-header",
+        "hero-card-desc",
+        "hero-video-wrapper",
+        "hero-video-thumbnail-wrapper",
+        "hero-video-thumbnail",
+        "hero-video-play",
+        "ai",
+        "ai-pre",
+        "ai-header",
+        "ai-title",
+        "ai-tagline",
+        "ai-instruction",
+        "ai-instruction-icon",
+        "ai-instruction-text",
+        "ai-desc",
+        "ai-disclaimer-wrapper",
+        "ai-disclaimer",
+        "wearable",
+        "wearable-copy",
+        "wearable-title",
+        "wearable-title-2-dummy",
+        "wearable-main",
+        "wearable-main-small",
+        "wearable-main-canvas",
+        "wearable-gallery-wrapper",
+        "wearable-gallery-move-container",
+        "wearable-gallery-warning",
+        "wearable-gallery-warning-icon-wrapper",
+        "wearable-gallery-warning-message",
+        "wearable-gallery-bikini-overlay",
+        "wearable-gallery-bikini-message",
+        "wearable-gallery-bikini-prompt",
+        "wearable-gallery-bikini-send-btn-wrapper",
+        "wearable-magazine",
+        "wearable-magazine-title",
+        "wearable-magazine-issue",
+        "wearable-magazine-idea",
+        "wearable-magazine-idea-num",
+        "wearable-magazine-idea-num-inner",
+        "wearable-magazine-idea-txt",
+        "wearable-magazine-main",
+        "wearable-magazine-main-title-1",
+        "wearable-magazine-main-title-2",
+        "wearable-magazine-main-desc",
+        "wearable-magazine-num",
+        "wearable-magazine-corner"
+      ],
+      "fonts": [
+        "halyard-display-variable",
+        "Literata",
+        "DM Mono"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "ORYZO AI",
+      "htmlClass": "is-desktop is-ready",
+      "scrollHeight": 56691,
+      "scrollY": 41843,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 571,
+          "h": 734,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 495,
+          "h": 495,
+          "cls": ""
+        },
+        {
+          "w": 321,
+          "h": 321,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        255,
+        0,
+        251,
+        0
+      ],
+      "imagesTotal": 39,
+      "imagesLoaded": 39,
+      "videos": [
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+          "ready": 4
+        },
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+          "ready": 4
+        }
+      ],
+      "sections": [
+        "canvas",
+        "logo-tmpl",
+        "hand-tmpl",
+        "ui",
+        "site-content",
+        "pages-container",
+        "home",
+        "hero",
+        "hero-top",
+        "hero-top-tagline",
+        "hero-logo-ref",
+        "hero-copy",
+        "hero-card",
+        "hero-card-inner",
+        "hero-card-header",
+        "hero-card-desc",
+        "hero-video-wrapper",
+        "hero-video-thumbnail-wrapper",
+        "hero-video-thumbnail",
+        "hero-video-play",
+        "ai",
+        "ai-pre",
+        "ai-header",
+        "ai-title",
+        "ai-tagline",
+        "ai-instruction",
+        "ai-instruction-icon",
+        "ai-instruction-text",
+        "ai-desc",
+        "ai-disclaimer-wrapper",
+        "ai-disclaimer",
+        "wearable",
+        "wearable-copy",
+        "wearable-title",
+        "wearable-title-2-dummy",
+        "wearable-main",
+        "wearable-main-small",
+        "wearable-main-canvas",
+        "wearable-gallery-wrapper",
+        "wearable-gallery-move-container",
+        "wearable-gallery-warning",
+        "wearable-gallery-warning-icon-wrapper",
+        "wearable-gallery-warning-message",
+        "wearable-gallery-bikini-overlay",
+        "wearable-gallery-bikini-message",
+        "wearable-gallery-bikini-prompt",
+        "wearable-gallery-bikini-send-btn-wrapper",
+        "wearable-magazine",
+        "wearable-magazine-title",
+        "wearable-magazine-issue",
+        "wearable-magazine-idea",
+        "wearable-magazine-idea-num",
+        "wearable-magazine-idea-num-inner",
+        "wearable-magazine-idea-txt",
+        "wearable-magazine-main",
+        "wearable-magazine-main-title-1",
+        "wearable-magazine-main-title-2",
+        "wearable-magazine-main-desc",
+        "wearable-magazine-num",
+        "wearable-magazine-corner"
+      ],
+      "fonts": [
+        "halyard-display-variable",
+        "Literata",
+        "DM Mono"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "ORYZO AI",
+      "htmlClass": "is-desktop is-ready",
+      "scrollHeight": 56691,
+      "scrollY": 55791,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 571,
+          "h": 734,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        },
+        {
+          "w": 495,
+          "h": 495,
+          "cls": ""
+        },
+        {
+          "w": 321,
+          "h": 321,
+          "cls": ""
+        },
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0,
+        0,
+        255,
+        0,
+        251,
+        0
+      ],
+      "imagesTotal": 39,
+      "imagesLoaded": 39,
+      "videos": [
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+          "ready": 4
+        },
+        {
+          "src": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+          "ready": 4
+        }
+      ],
+      "sections": [
+        "canvas",
+        "logo-tmpl",
+        "hand-tmpl",
+        "ui",
+        "site-content",
+        "pages-container",
+        "home",
+        "hero",
+        "hero-top",
+        "hero-top-tagline",
+        "hero-logo-ref",
+        "hero-copy",
+        "hero-card",
+        "hero-card-inner",
+        "hero-card-header",
+        "hero-card-desc",
+        "hero-video-wrapper",
+        "hero-video-thumbnail-wrapper",
+        "hero-video-thumbnail",
+        "hero-video-play",
+        "ai",
+        "ai-pre",
+        "ai-header",
+        "ai-title",
+        "ai-tagline",
+        "ai-instruction",
+        "ai-instruction-icon",
+        "ai-instruction-text",
+        "ai-desc",
+        "ai-disclaimer-wrapper",
+        "ai-disclaimer",
+        "wearable",
+        "wearable-copy",
+        "wearable-title",
+        "wearable-title-2-dummy",
+        "wearable-main",
+        "wearable-main-small",
+        "wearable-main-canvas",
+        "wearable-gallery-wrapper",
+        "wearable-gallery-move-container",
+        "wearable-gallery-warning",
+        "wearable-gallery-warning-icon-wrapper",
+        "wearable-gallery-warning-message",
+        "wearable-gallery-bikini-overlay",
+        "wearable-gallery-bikini-message",
+        "wearable-gallery-bikini-prompt",
+        "wearable-gallery-bikini-send-btn-wrapper",
+        "wearable-magazine",
+        "wearable-magazine-title",
+        "wearable-magazine-issue",
+        "wearable-magazine-idea",
+        "wearable-magazine-idea-num",
+        "wearable-magazine-idea-num-inner",
+        "wearable-magazine-idea-txt",
+        "wearable-magazine-main",
+        "wearable-magazine-main-title-1",
+        "wearable-magazine-main-title-2",
+        "wearable-magazine-main-desc",
+        "wearable-magazine-num",
+        "wearable-magazine-corner"
+      ],
+      "fonts": [
+        "halyard-display-variable",
+        "Literata",
+        "DM Mono"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 1,
+    "failed": 2,
+    "http4xx5xx": 0,
+    "blocked": 0
+  },
+  "blocked": [],
+  "errors": [],
+  "failed": [
+    {
+      "url": "http://localhost:4178/images/wearable-gallery/bite.mp4",
+      "err": "net::ERR_ABORTED"
+    },
+    {
+      "url": "http://localhost:4178/images/wearable-gallery/yoga.mp4",
+      "err": "net::ERR_ABORTED"
+    }
+  ],
+  "notFound": []
+}

@@ -1,0 +1,379 @@
+{
+  "url": "https://www.dogstudio.co/",
+  "at": "2026-09-08T13:55:26.833Z",
+  "freeze": 12000,
+  "initial": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 3800,
+    "scrollLocked": false,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 1190,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 691,
+    "textLength": 2216,
+    "imagesTotal": 13,
+    "imagesLoaded": 12,
+    "videos": [],
+    "sections": [
+      "mc4wp-form-basic-css",
+      "decoder_script",
+      "plyr-seek-2926",
+      "plyr-volume-2926",
+      "plyr-settings-2926",
+      "plyr-settings-2926-home",
+      "plyr-settings-2926-captions",
+      "plyr-settings-2926-quality",
+      "plyr-settings-2926-speed"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "afterScroll": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 3800,
+    "scrollLocked": false,
+    "scrollY": 2900,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 1190,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 691,
+    "textLength": 2216,
+    "imagesTotal": 13,
+    "imagesLoaded": 13,
+    "videos": [],
+    "sections": [
+      "mc4wp-form-basic-css",
+      "decoder_script",
+      "plyr-seek-2926",
+      "plyr-volume-2926",
+      "plyr-settings-2926",
+      "plyr-settings-2926-home",
+      "plyr-settings-2926-captions",
+      "plyr-settings-2926-quality",
+      "plyr-settings-2926-speed"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "mobile": {
+    "title": "Dogstudio. Multidisciplinary Creative Studio.",
+    "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+    "scrollHeight": 4287,
+    "scrollLocked": false,
+    "scrollY": 3443,
+    "canvases": [
+      {
+        "w": 390,
+        "h": 1024,
+        "cls": ""
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "nodes": 691,
+    "textLength": 2257,
+    "imagesTotal": 13,
+    "imagesLoaded": 13,
+    "videos": [],
+    "sections": [
+      "mc4wp-form-basic-css",
+      "decoder_script",
+      "plyr-seek-2926",
+      "plyr-volume-2926",
+      "plyr-settings-2926",
+      "plyr-settings-2926-home",
+      "plyr-settings-2926-captions",
+      "plyr-settings-2926-quality",
+      "plyr-settings-2926-speed"
+    ],
+    "fonts": [
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "Heebo",
+      "GT Sectra Display",
+      "GT Sectra Display",
+      "Gilroy",
+      "Gilroy"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 691,
+      "textLength": 2216,
+      "imagesTotal": 13,
+      "imagesLoaded": 12,
+      "videos": [],
+      "sections": [
+        "mc4wp-form-basic-css",
+        "decoder_script",
+        "plyr-seek-2926",
+        "plyr-volume-2926",
+        "plyr-settings-2926",
+        "plyr-settings-2926-home",
+        "plyr-settings-2926-captions",
+        "plyr-settings-2926-quality",
+        "plyr-settings-2926-speed"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 725,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 691,
+      "textLength": 2216,
+      "imagesTotal": 13,
+      "imagesLoaded": 12,
+      "videos": [],
+      "sections": [
+        "mc4wp-form-basic-css",
+        "decoder_script",
+        "plyr-seek-2926",
+        "plyr-volume-2926",
+        "plyr-settings-2926",
+        "plyr-settings-2926-home",
+        "plyr-settings-2926-captions",
+        "plyr-settings-2926-quality",
+        "plyr-settings-2926-speed"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 1450,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 691,
+      "textLength": 2216,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "mc4wp-form-basic-css",
+        "decoder_script",
+        "plyr-seek-2926",
+        "plyr-volume-2926",
+        "plyr-settings-2926",
+        "plyr-settings-2926-home",
+        "plyr-settings-2926-captions",
+        "plyr-settings-2926-quality",
+        "plyr-settings-2926-speed"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 2175,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 691,
+      "textLength": 2216,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "mc4wp-form-basic-css",
+        "decoder_script",
+        "plyr-seek-2926",
+        "plyr-volume-2926",
+        "plyr-settings-2926",
+        "plyr-settings-2926-home",
+        "plyr-settings-2926-captions",
+        "plyr-settings-2926-quality",
+        "plyr-settings-2926-speed"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "Dogstudio. Multidisciplinary Creative Studio.",
+      "htmlClass": " no-touchevents backgroundcliptext objectfit object-fit",
+      "scrollHeight": 3800,
+      "scrollLocked": false,
+      "scrollY": 2900,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 1190,
+          "cls": ""
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "nodes": 691,
+      "textLength": 2216,
+      "imagesTotal": 13,
+      "imagesLoaded": 13,
+      "videos": [],
+      "sections": [
+        "mc4wp-form-basic-css",
+        "decoder_script",
+        "plyr-seek-2926",
+        "plyr-volume-2926",
+        "plyr-settings-2926",
+        "plyr-settings-2926-home",
+        "plyr-settings-2926-captions",
+        "plyr-settings-2926-quality",
+        "plyr-settings-2926-speed"
+      ],
+      "fonts": [
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "Heebo",
+        "GT Sectra Display",
+        "GT Sectra Display",
+        "Gilroy",
+        "Gilroy"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 1,
+    "warnings": 5,
+    "failed": 1,
+    "http4xx5xx": 1,
+    "blocked": 0
+  },
+  "blocked": [],
+  "errors": [
+    "Failed to load resource: the server responded with a status of 401 ()"
+  ],
+  "failed": [
+    {
+      "url": "https://region1.google-analytics.com/g/collect?v=2&tid=G-RT7CLMFLME&gtm=45je6921v9125424966za20g&_p=1767225600000&gcd=13l3l3l3l2l1&npa=0&dma=0&_eu=ABAI&cid=1964991527.1767225600&frm=0&ngs=1&pscdl=noapi&rcb=9&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=19.0.0&uaw=0&ul=de&_s=1&tag_exp=115616986~115938465~115938469~118897920~118897930~120213116~120385423~120469145~120469153&dl=https%3A%2F%2Fdogstudio.co%2F&dt=Dogstudio.%20Multidisciplinary%20Creative%20Studio.&sid=1767225600&sct=1&seg=0&en=page_view&_fv=1&_ss=1&_ee=1&gap.uat=115938465~115938468~118897920~118897930~120385423~120469145~120469153&tfd=240",
+      "err": "net::ERR_ABORTED"
+    }
+  ],
+  "notFound": [
+    {
+      "url": "https://player.vimeo.com/video/836218697?loop=false&autoplay=false&muted=false&gesture=media&playsinline=true&byline=false&portrait=false&title=false&speed=true&transparent=false",
+      "status": 401
+    }
+  ]
+}

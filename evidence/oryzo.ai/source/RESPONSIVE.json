@@ -1,0 +1,156 @@
+{
+  "url": "https://oryzo.ai/",
+  "rows": [
+    {
+      "w": 1920,
+      "scrollHeight": 57827,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "24px",
+      "vh": "9px"
+    },
+    {
+      "w": 1600,
+      "scrollHeight": 57070,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "20px",
+      "vh": "9px"
+    },
+    {
+      "w": 1440,
+      "scrollHeight": 56691,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "18px",
+      "vh": "9px"
+    },
+    {
+      "w": 1280,
+      "scrollHeight": 56311,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "16px",
+      "vh": "9px"
+    },
+    {
+      "w": 1024,
+      "scrollHeight": 55706,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "12.8px",
+      "vh": "9px"
+    },
+    {
+      "w": 900,
+      "scrollHeight": 55413,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "11.25px",
+      "vh": "9px"
+    },
+    {
+      "w": 834,
+      "scrollHeight": 55257,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "10.425px",
+      "vh": "9px"
+    },
+    {
+      "w": 768,
+      "scrollHeight": 55100,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": true,
+      "burger": false,
+      "heroTitleSize": "9.6px",
+      "vh": "9px"
+    },
+    {
+      "w": 700,
+      "scrollHeight": 61099,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "29.8667px",
+      "vh": "9px"
+    },
+    {
+      "w": 600,
+      "scrollHeight": 58840,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "25.6px",
+      "vh": "9px"
+    },
+    {
+      "w": 500,
+      "scrollHeight": 56585,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "21.3333px",
+      "vh": "9px"
+    },
+    {
+      "w": 430,
+      "scrollHeight": 55010,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "18.3467px",
+      "vh": "9px"
+    },
+    {
+      "w": 390,
+      "scrollHeight": 54117,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "16.64px",
+      "vh": "9px"
+    },
+    {
+      "w": 375,
+      "scrollHeight": 53783,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "16px",
+      "vh": "9px"
+    },
+    {
+      "w": 320,
+      "scrollHeight": 52557,
+      "overflowX": 0,
+      "htmlClass": "is-desktop is-ready",
+      "desktopNav": false,
+      "burger": true,
+      "heroTitleSize": "13.6533px",
+      "vh": "9px"
+    }
+  ],
+  "errors": []
+}

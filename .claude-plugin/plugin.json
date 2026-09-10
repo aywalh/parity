@@ -1,0 +1,10 @@
+{
+  "name": "parity",
+  "version": "1.0.0",
+  "description": "Source-first frontend reconstruction with counter-measurement: reuse the original runtime, then prove fidelity by running the same probes against source and clone.",
+  "author": { "name": "aywalh", "url": "https://github.com/aywalh" },
+  "homepage": "https://github.com/aywalh/parity",
+  "repository": "https://github.com/aywalh/parity",
+  "license": "MIT",
+  "keywords": ["website-clone", "verification", "playwright", "webgl", "three.js", "rive", "visual-regression", "reverse-engineering"]
+}

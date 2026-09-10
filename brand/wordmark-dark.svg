@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" width="260" height="64" role="img" aria-label="parity">
+  <rect x="8"  y="8" width="22" height="48" fill="#0A0A0A"/>
+  <rect x="34" y="8" width="22" height="48" fill="#0A0A0A"/>
+  <text x="76" y="46" fill="#0A0A0A"
+        font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace"
+        font-size="40" font-weight="600" letter-spacing="-0.8">parity</text>
+</svg>

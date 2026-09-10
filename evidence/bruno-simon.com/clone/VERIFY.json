@@ -1,0 +1,228 @@
+{
+  "url": "http://localhost:4175/",
+  "at": "2026-09-07T20:10:05.852Z",
+  "freeze": null,
+  "initial": {
+    "title": "Bruno's",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "afterScroll": {
+    "title": "Bruno's",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 900,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 1440,
+        "h": 900,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "mobile": {
+    "title": "Bruno          🚗   🌳         ",
+    "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+    "scrollHeight": 844,
+    "scrollY": 0,
+    "canvases": [
+      {
+        "w": 390,
+        "h": 844,
+        "cls": "js-canvas experience"
+      }
+    ],
+    "canvasNonBlank": [
+      0
+    ],
+    "imagesTotal": 44,
+    "imagesLoaded": 1,
+    "videos": [],
+    "sections": [],
+    "fonts": [
+      "Amatic SC",
+      "Nunito",
+      "Pally-Medium"
+    ]
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 25,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 50,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 75,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    },
+    {
+      "pct": 100,
+      "title": "Bruno's",
+      "htmlClass": "is-started is-server-offline is-gamepad-default input-filter-intro is-mode-mouse-keyboard",
+      "scrollHeight": 900,
+      "scrollY": 0,
+      "canvases": [
+        {
+          "w": 1440,
+          "h": 900,
+          "cls": "js-canvas experience"
+        }
+      ],
+      "canvasNonBlank": [
+        0
+      ],
+      "imagesTotal": 44,
+      "imagesLoaded": 1,
+      "videos": [],
+      "sections": [],
+      "fonts": [
+        "Amatic SC",
+        "Nunito",
+        "Nunito",
+        "Pally-Medium"
+      ]
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 7,
+    "failed": 0,
+    "http4xx5xx": 0
+  },
+  "errors": [],
+  "failed": [],
+  "notFound": []
+}

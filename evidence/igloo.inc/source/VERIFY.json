@@ -1,0 +1,175 @@
+{
+  "url": "https://www.igloo.inc/",
+  "at": "2026-09-08T10:34:12.481Z",
+  "freeze": null,
+  "initial": {
+    "title": "Igloo Inc.",
+    "htmlClass": "de desktop windows",
+    "scrollHeight": 900,
+    "scrollLocked": true,
+    "scrollY": 0,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "nodes": 27,
+    "textLength": 0,
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "app",
+      "webgl"
+    ],
+    "fonts": []
+  },
+  "afterScroll": {
+    "title": "Igloo Inc.",
+    "htmlClass": "de desktop windows",
+    "scrollHeight": 900,
+    "scrollLocked": true,
+    "scrollY": 0,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "nodes": 27,
+    "textLength": 0,
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "app",
+      "webgl"
+    ],
+    "fonts": []
+  },
+  "mobile": {
+    "title": "Igloo Inc.",
+    "htmlClass": "de desktop windows",
+    "scrollHeight": 844,
+    "scrollLocked": true,
+    "scrollY": 0,
+    "canvases": [],
+    "canvasNonBlank": [],
+    "nodes": 27,
+    "textLength": 0,
+    "imagesTotal": 0,
+    "imagesLoaded": 0,
+    "videos": [],
+    "sections": [
+      "app",
+      "webgl"
+    ],
+    "fonts": []
+  },
+  "marks": [
+    {
+      "pct": 0,
+      "title": "Igloo Inc.",
+      "htmlClass": "de desktop windows",
+      "scrollHeight": 900,
+      "scrollLocked": true,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "nodes": 27,
+      "textLength": 0,
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "app",
+        "webgl"
+      ],
+      "fonts": []
+    },
+    {
+      "pct": 25,
+      "title": "Igloo Inc.",
+      "htmlClass": "de desktop windows",
+      "scrollHeight": 900,
+      "scrollLocked": true,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "nodes": 27,
+      "textLength": 0,
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "app",
+        "webgl"
+      ],
+      "fonts": []
+    },
+    {
+      "pct": 50,
+      "title": "Igloo Inc.",
+      "htmlClass": "de desktop windows",
+      "scrollHeight": 900,
+      "scrollLocked": true,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "nodes": 27,
+      "textLength": 0,
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "app",
+        "webgl"
+      ],
+      "fonts": []
+    },
+    {
+      "pct": 75,
+      "title": "Igloo Inc.",
+      "htmlClass": "de desktop windows",
+      "scrollHeight": 900,
+      "scrollLocked": true,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "nodes": 27,
+      "textLength": 0,
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "app",
+        "webgl"
+      ],
+      "fonts": []
+    },
+    {
+      "pct": 100,
+      "title": "Igloo Inc.",
+      "htmlClass": "de desktop windows",
+      "scrollHeight": 900,
+      "scrollLocked": true,
+      "scrollY": 0,
+      "canvases": [],
+      "canvasNonBlank": [],
+      "nodes": 27,
+      "textLength": 0,
+      "imagesTotal": 0,
+      "imagesLoaded": 0,
+      "videos": [],
+      "sections": [
+        "app",
+        "webgl"
+      ],
+      "fonts": []
+    }
+  ],
+  "counts": {
+    "errors": 0,
+    "warnings": 0,
+    "failed": 0,
+    "http4xx5xx": 0,
+    "blocked": 0
+  },
+  "blocked": [],
+  "errors": [],
+  "failed": [],
+  "notFound": []
+}
